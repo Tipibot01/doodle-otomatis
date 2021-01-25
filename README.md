@@ -1,1 +1,1 @@
-# doodle-otomatis
+# tipibot
